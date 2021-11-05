@@ -1,0 +1,68 @@
+body{
+    background-image: url("../images/bitfondo2.jpg");
+    background-size: 1500px;
+}
+
+h1,h2,h3{
+    color:white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size:22px;
+}
+
+ li a {
+    color:white;
+    font-size: 22px;
+}
+
+nav ul li{
+    list-style: none;
+    text-align: center;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+#centrar{
+    text-align: center;
+}
+
+#div01{
+    margin-top:150px;
+    background-color:black;
+    opacity: 90%;
+}
+
+#insertado{
+    align-content: center;
+    width:125px;
+    height:25px;
+    font-size: 20px;
+}
+
+#buscar{
+    width:125px;
+    height:30px;
+    font-size: 20px;
+    background-color:green;
+    border-radius:20px;
+    color:white;
+}
+
+#combobox{
+    font-size: 20px;
+}
+
+#combo-box, #combo-box2{
+    font-size:20px;
+}
+
+div{
+    background-color:black;
+    opacity: 90%;
+}
